@@ -1,0 +1,52 @@
+analysis topics.</li>
+</ul>
+
+<h3 id="testing">Testing</h3>
+
+<ol>
+  <li><a href="https://www.fuzzingbook.org/html/Intro_Testing.html">Introduction to
+ Testing</a></li>
+  <li><a href="https://www.fuzzingbook.org/html/Fuzzer.html">Random Fuzzing</a></li>
+  <li><a href="https://www.fuzzingbook.org/html/Coverage.html">Code Coverage</a></li>
+  <li><a href="https://www.fuzzingbook.org/html/MutationFuzzer.html">Mutation Testing</a></li>
+  <li><a href="https://www.fuzzingbook.org/html/GreyboxFuzzer.html">Graybox Testing</a></li>
+  <li><a href="https://www.fuzzingbook.org/html/SearchBasedFuzzer.html">Search-Based Testing</a></li>
+  <li>GenProg–Using GA to repair programs</li>
+  <li><a href="https://www.fuzzingbook.org/html/MutationAnalysis.html">Mutation Analysis</a></li>
+  <li><a href="https://www.fuzzingbook.org/html/Grammars.html">Testing with Grammars</a></li>
+  <li><a href="https://www.fuzzingbook.org/html/Reducer.html">Reducing Failure-Inducing Inputs</a></li>
+  <li>Statistical Debugging</li>
+</ol>
+
+<h3 id="verification-and-analysis">Verification And Analysis</h3>
+
+<ol>
+  <li><a href="https://www.fuzzingbook.org/html/InformationFlow.html">Tracking Information Flow</a></li>
+  <li>Basic info on SAT solving, theorems, proofs, etc</li>
+  <li><a href="https://www.fuzzingbook.org/html/ConcolicFuzzer.html">Concolic Execution</a></li>
+  <li><a href="https://www.fuzzingbook.org/html/SymbolicFuzzer.html">Symbolic Execution</a></li>
+  <li><a href="https://www.fuzzingbook.org/html/DynamicInvariants.html">Invariants/Specifications
+Inference</a></li>
+  <li><a href="/class-tva/slides/sa.pdf">Introduction to Static Analyis, the WHILE language</a></li>
+  <li><a href="/class-tva/slides/bigstep.pdf">Operational Semantics (Big-Step Semantics)</a></li>
+  <li><a href="/class-tva/slides/floydhoare.pdf">Program Verification using Hoare Logic</a>, <a href="https://github.com/nguyenthanhvuh/program_analysis_notes/blob/master/notebooks/axiomatic_semantics.ipynb">additional
+notes</a></li>
+  <li>Abstract Interpretation: lectures/detail examples given in class, <a href="/class-tva/slides/abstract_interpretation.pptx">a PPT slide is also available</a></li>
+</ol>
+
+<h2 id="project-info"><a href="project">PROJECT INFO</a></h2>
+
+<h2 id="links">Links</h2>
+
+<ul>
+  <li><a href="index">Main page</a></li>
+</ul>
+
+
+
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+
+  </body>
+</html>
