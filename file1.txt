@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Announcements | class-tva</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Announcements" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://nguyenthanhvuh.github.io/class-tva/schedule.html" />
+<meta property="og:url" content="https://nguyenthanhvuh.github.io/class-tva/schedule.html" />
+<meta property="og:site_name" content="class-tva" />
+<script type="application/ld+json">
+{"@type":"WebPage","headline":"Announcements","url":"https://nguyenthanhvuh.github.io/class-tva/schedule.html","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/class-tva/assets/css/style.css?v=443ac88bfc06b42bc26b1c2d8ed89566e68874e2">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+
+      <h1><a href="https://nguyenthanhvuh.github.io/class-tva/">class-tva</a></h1>
+
+
+      <h1 id="announcements">Announcements</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"> </th>
+      <th style="text-align: left"> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">T 9/8</td>
+      <td style="text-align: left"><a href="pa1">PA-1</a> due at 11:59PM</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">T 9/22</td>
+      <td style="text-align: left"><a href="pa2">PA-2</a> due at 11:59PM</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">F 9/25</td>
+      <td style="text-align: left"><a href="project">Project Proposal</a> due at 11:59PM</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">T 9/22</td>
+      <td style="text-align: left">In-class assignment 1 due at 11:59</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">F 9/25</td>
+      <td style="text-align: left"><a href="ia1">In-class assignment 1 redo</a>, due at 11:59PM</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="class-notes"><a href="notes">Class notes</a></h2>
+
+<ul>
+  <li>Important: these notes do not replace information presented in class (i.e., you still need to attend and pay attention in class to understand materials)</li>
+</ul>
+
+<h2 id="topics">Topics</h2>
+
+<ul>
+  <li>We will read chapters in the <a href="https://www.fuzzingbook.org">Fuzzing Book</a> and presentation slides on various program testing, verification, and analysis topics.</li>
+</ul>
+
+<h3 id="testing">Testing</h3>
+
+<ol>
+  <li><a href="https://www.fuzzingbook.org/html/Intro_Testing.html">Introduction to
+ Testing</a></li>
+  <li><a href="https://www.fuzzingbook.org/html/Fuzzer.html">Random Fuzzing</a></li>
+  <li><a href="https://www.fuzzingbook.org/html/Coverage.html">Code Coverage</a></li>
+  <li><a href="https://www.fuzzingbook.org/html/MutationFuzzer.html">Mutation Testing</a></li>
+  <li><a href="https://www.fuzzingbook.org/html/GreyboxFuzzer.html">Graybox Testing</a></li>
+  <li><a href="https://www.fuzzingbook.org/html/SearchBasedFuzzer.html">Search-Based Testing</a></li>
+  <li>GenProg–Using GA to repair programs</li>
+  <li><a href="https://www.fuzzingbook.org/html/MutationAnalysis.html">Mutation Analysis</a></li>
+  <li><a href="https://www.fuzzingbook.org/html/Grammars.html">Testing with Grammars</a></li>
+  <li><a href="https://www.fuzzingbook.org/html/Reducer.html">Reducing Failure-Inducing Inputs</a></li>
+  <li>Statistical Debugging</li>
+</ol>
+
+<h3 id="verification-and-analysis">Verification And Analysis</h3>
+
+<ol>
+  <li><a href="https://www.fuzzingbook.org/html/InformationFlow.html">Tracking Information Flow</a></li>
+  <li>Basic info on SAT solving, theorems, proofs, etc</li>
+  <li><a href="https://www.fuzzingbook.org/html/ConcolicFuzzer.html">Concolic Execution</a></li>
+  <li><a href="https://www.fuzzingbook.org/html/SymbolicFuzzer.html">Symbolic Execution</a></li>
+  <li><a href="https://www.fuzzingbook.org/html/DynamicInvariants.html">Invariants/Specifications
+Inference</a></li>
+  <li><a href="/class-tva/slides/sa.pdf">Introduction to Static Analyis, the WHILE language</a></li>
+  <li><a href="/class-tva/slides/bigstep.pdf">Operational Semantics (Big-Step Semantics)</a></li>
+  <li><a href="/class-tva/slides/floydhoare.pdf">Program Verification using Hoare Logic</a>, <a href="https://github.com/nguyenthanhvuh/program_analysis_notes/blob/master/notebooks/axiomatic_semantics.ipynb">additional
+notes</a></li>
+  <li>Abstract Interpretation: lectures/detail examples given in class, <a href="/class-tva/slides/abstract_interpretation.pptx">a PPT slide is also available</a></li>
+</ol>
+
+<h2 id="project-info"><a href="project">PROJECT INFO</a></h2>
+
+<h2 id="links">Links</h2>
+
+<ul>
+  <li><a href="index">Main page</a></li>
+</ul>
+
+
+
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+
+  </body>
+</html>
